@@ -1,2 +1,2 @@
 # html-portofolio
-This is my very first attempt of trying out the HTML Language!
+This is my first time trying out the HTML language!
